@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 Projetos em destaque
-- [Minishell](https://github.com/vinionix/minishell) – Shell simplificada em C com pipelines e redirecionamentos (CMake)  
-- [Libft](https://github.com/vinionix/libft) – Biblioteca de funções C reutilizáveis  
-- [Piscine Python](https://github.com/vinionix/piscine-python) – Introdução à lógica de programação em Python  
+- [Minishell](https://github.com/vinionix/My_minishell) – Shell simplificada em C com pipelines e redirecionamentos (CMake)  
+- [Libft](https://github.com/vinionix/Mylib_) – Biblioteca de funções C reutilizáveis  
+- [Piscine Python](https://github.com/vinionix/Piscine_python) – Introdução à lógica de programação em Python  
 - Cub3D – Em breve no GitHub (jogo com raycasting 3D e multiplayer)  
 
 ---
