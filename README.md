@@ -32,7 +32,7 @@
 ---
 
 ## 🔗 Conecte-se comigo
-[LinkedIn](www.linkedin.com/in/vfidelis) | [Email](mailto:viniciusfidelis289@gmail.com)
+[LinkedIn](chrome:www.linkedin.com/in/vfidelis) | [Email](mailto:viniciusfidelis289@gmail.com)
 
 ---
 
