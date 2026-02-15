@@ -1,9 +1,9 @@
 # Olá 👋, eu sou Vinícius
 
-🎓 Estudante da 42 Rio | Futuro Analista de Cibersegurança  
-💻 Programador C | Python | Bash | SQL  
-🎮 Desenvolvedor de jogos e projetos de redes  
-🔒 Entusiasta em cibersegurança e automação  
+🎓 Estudante da 42 Rio   
+💻 Programador C | Java | Bash | SQL  
+🎮 Desenvolvedor de jogos e Back end
+🔒 Entusiasta em cibersegurança e automação
 
 ---
 
@@ -18,18 +18,10 @@
 ## 📚 Aprendizados
 - Manipulação de memória e estruturas em C  
 - Programação de sistemas e redes  
-- Python, automação de scripts e POO básica  
+- Java para Api usando spring.  
 - Estruturação de projetos e código modular  
 
----
-
-## 📌 Roadmap Pessoal
-- [ ] Projetos avançados de cibersegurança (Red Team & Blue Team)  
-- [ ] Automatização de testes e scripts Python  
-- [ ] Jogos multiplayer com rede e protocolos UDP/TCP  
-- [ ] Portfólio completo com READMEs padronizados e GitHub Pages  
-
----
+--- 
 
 ## 🔗 Conecte-se comigo
 [LinkedIn](https://www.linkedin.com/in/vfidelis). | [Email](mailto:viniciusfidelis289@gmail.com)
