@@ -2,7 +2,7 @@
 
 Estudante da 42 Rio e de Análise e Desenvolvimento de Sistemas, com foco em programação, redes, Linux e cibersegurança.
 
-Tenho interesse em infraestrutura, suporte/NOC, desenvolvimento backend e segurança. Meus projetos refletem principalmente estudos práticos em C, C++, Python, Java, redes e desenvolvimento de jogos.
+Tenho interesse em infraestrutura, suporte, SOC, desenvolvimento de software e segurança. Meus projetos refletem principalmente estudos práticos em C, C++, Python, Java, redes e desenvolvimento de jogos.
 
 ## Projetos em destaque
 
